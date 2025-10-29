@@ -164,7 +164,8 @@ body{
 }
 
 #hero h1 {
-    color: #efd336;
+    
+    color: rgb(255, 196, 0);
 }
 #hero p{
     color: #fe79ac;
@@ -172,7 +173,7 @@ body{
 #hero button{
     background-image:url("img/blog/button.png") ;
     background-color: transparent;
-    color: #efd336;
+   color: rgb(255, 196, 0);
     border: 0;
     padding: 14px 80px 14px 65px;
     background-repeat: no-repeat;
@@ -269,7 +270,7 @@ body{
 }
 #product1 .pro .des .star i{
     font-size:12px;
-    color: rgb(243, 811, 25);
+    color: rgb(255, 196, 0);
 }
 #product1 .pro .des .prise {
     display: flex;
